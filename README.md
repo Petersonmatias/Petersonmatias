@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm happy with your neighbor!
+<h1 align="center">I'm happy with your neighbor!</h1>
 ![covid-hi](https://user-images.githubusercontent.com/86334701/139600163-c5a69a78-317e-4a72-ab8f-75227b9cd740.gif)
 
 <br>
