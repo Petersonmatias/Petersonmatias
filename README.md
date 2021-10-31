@@ -1,6 +1,5 @@
 
-<h1 align="center">I'm happy with your neighbor!</h1>
-![covid-hi](https://user-images.githubusercontent.com/86334701/139600163-c5a69a78-317e-4a72-ab8f-75227b9cd740.gif)
+<h1 align="center"><img src="./src/covid-hi.gif" alt="GIF" width="70px" height="70px"/> I'm happy to see you here!</h1>
 
 <br>
 ```javascript
