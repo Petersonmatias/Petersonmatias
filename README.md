@@ -1,5 +1,5 @@
 
-![giphy](https://user-images.githubusercontent.com/86334701/139599415-ef5e5b04-9d55-4ce6-9400-725a4a2c2f93.gif height="40" width="40")
+![giphy](height="40" width="40" https://user-images.githubusercontent.com/86334701/139599415-ef5e5b04-9d55-4ce6-9400-725a4a2c2f93.gif )
 
 ```javascript
 const whoAmI = {
