@@ -1,5 +1,5 @@
 
-<h1 align="center"><img alt="Gif" height="100" width="100" src="https://user-images.githubusercontent.com/86334701/139599793-00216080-89bd-4372-986b-2b67be870a26.gif">I'm happy with your neighbor!
+<h1 align="center"> <img alt="Gif" height="100" width="100" src="https://user-images.githubusercontent.com/86334701/139599793-00216080-89bd-4372-986b-2b67be870a26.gif">I'm happy with your neighbor!
 
 <br>
 ```javascript
