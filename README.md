@@ -4,13 +4,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Peterson Matias</h1>
 
 
-- 🔥 Systems Analysis and Development Student @Unicesumar EAD 
+- 👨‍💻 **Systems Analysis and Development Student @Unicesumar EAD
 
-- 👨‍💻 Studying (Discover) [Rocketseat]
+- 👨‍💻 **Studying (Discover) [Rocketseat]
 
-<br><br>
+<br>
 
-#:student: Tech Studied
+##:student:**Tech Studied
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -24,24 +24,15 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+
+<a href="www.linkedin.com/in/peterson-matias-1a6829211" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://www.instagram.com/peterson.pna/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://pmacielmatias@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-<!--
