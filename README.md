@@ -4,12 +4,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Peterson Matias</h1>
 
 
-### - 👨‍💻 Systems Analysis and Development Student @Unicesumar EAD
-### - 👨‍💻 Studying (Discover) [Rocketseat]
+##### - 👨‍💻 Systems Analysis and Development Student @Unicesumar EAD
+##### - 👨‍💻 Studying (Discover) [Rocketseat]
 
 <br>
 
-#### :student: Tech Studied
+### :student: Tech Studied
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -31,7 +31,7 @@
  <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://pmacielmatias@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 
