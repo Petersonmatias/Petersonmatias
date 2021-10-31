@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started:
 
-
 -->
-![alt text](http://url/to/https://github.com/Petersonmatias/cracha-nlw/issues/1#issue-1040359868)
-<img align="right" height="590em" src="https://github.com/Petersonmatias/cracha-nlw/issues/1#issue-1040359868"/>
+
+
+
+<img align="right" height="590em"https://github.com/Petersonmatias/Petersonmatias/issues/1#issue-1040422447"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Peterson Matias</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
