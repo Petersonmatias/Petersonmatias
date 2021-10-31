@@ -1,5 +1,5 @@
 
-<h2>I'm happy with your neighbor!<img align="rigth" alt="Gif" height="60" width="60" src="https://user-images.githubusercontent.com/86334701/139599415-ef5e5b04-9d55-4ce6-9400-725a4a2c2f93.gif"> 
+<h1 align="center">I'm happy with your neighbor!<img  alt="Gif" height="100" width="100" src="https://user-images.githubusercontent.com/86334701/139599415-ef5e5b04-9d55-4ce6-9400-725a4a2c2f93.gif"> 
 
 ```javascript
 const whoAmI = {
