@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img src="./src/hello-gif.gif" alt="Hello GIF" width="70px" height="70px"/> It's a pleasure to see you here!</h1>
+<h1 align="center"><img src="./src/hello-gif.gif" alt="Hello GIF" width="70px" height="70px"/> I'm happy with your neighbor!</h1>
 
 ```javascript
 const whoAmI = {
@@ -29,7 +29,7 @@ const whoAmI = {
 </div>
 
 <br>
-<div align="center">
+<div align="left">
   <h2>👨🏽‍🦲 &nbsp;Social Links</h2>
 
 <p align="left" style="background:yellow">
