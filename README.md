@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="./src/covid-hi.gif" alt="GIF" width="70px" height="70px"/> I'm happy to see you here!</h1>
 
-<br>
+
 ```javascript
 const whoAmI = {
   name: "Peterson Maciel Matias",
