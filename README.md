@@ -4,9 +4,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Peterson Matias</h1>
 
 
-###- 👨‍💻 Systems Analysis and Development Student @Unicesumar EAD
+###-👨‍💻 Systems Analysis and Development Student @Unicesumar EAD
 
-### - 👨‍💻 ## Studying (Discover) [Rocketseat]
+###-👨‍💻 Studying (Discover) [Rocketseat]
 
 <br>
 
