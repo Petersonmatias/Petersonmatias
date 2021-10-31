@@ -1,6 +1,8 @@
 
 
-<h1 align="center"><img src="user-images.githubusercontent.com/86334701/139577141-da028904-235e-4b73-a383-7058948c4ee2.jpg" alt="Hello GIF" width="70px" height="70px"/> I'm happy with your neighbor!</h1>
+<h1 align="center">
+  ![giphy](https://user-images.githubusercontent.com/86334701/139599305-ae6b8815-3359-4efa-b475-be1137f272cd.gif width="70px" height="70px"/> I'm happy with your neighbor!)
+alt="Hello GIF"</h1>
 
 ```javascript
 const whoAmI = {
