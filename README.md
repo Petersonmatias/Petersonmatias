@@ -17,24 +17,20 @@ const whoAmI = {
   ]
 }
 ```
-
-##### - 👨‍💻 Systems Analysis and Development Student @Unicesumar EAD
-##### - 👨‍💻 Studying (Discover) [Rocketseat](https://github.com/Rocketseat)
-
 <br>
 <div align="center">
   <h2>Languages and Tech Studied</h2>
-    <img align="center" alt="Pedro-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Pedro-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Pedro-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Pedro-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Pedro-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Pedro-Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Pedro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Pedro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Pedro-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Pedro-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Pedro-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Pedro-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 <br>
-
-### 👨🏽‍🦲 &nbsp;Social Links
+<div align="center">
+  <h2>👨🏽‍🦲 &nbsp;Social Links</h2>
 
 <p align="left" style="background:yellow">
 
@@ -48,7 +44,7 @@ const whoAmI = {
  <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
-
+</div>
 
 <!--
 **Petersonmatias/Petersonmatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
