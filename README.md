@@ -8,7 +8,7 @@ const whoAmI = {
   age: 31,
   graduation: "Graduated in Systems Analysis and Development",
   currentCourse: "Rocketseat",
-  currentCity: "Varginha - MG",
+  currentCity: "Varginha/MG",
   ambitions: [
     "Getting my first job as a Front-End dev",
     "Build my own house",
