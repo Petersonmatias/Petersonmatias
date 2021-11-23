@@ -32,13 +32,13 @@ const whoAmI = {
 <p align="left" style="background:yellow">
 
 <a href="www.linkedin.com/in/peterson-matias-1a6829211" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/peterson.pna/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://pmacielmatias@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-peterson-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 </div>
